@@ -1,5 +1,5 @@
 import pygame
-from . import functions
+import functions
 
 # Constant dimensions of building block
 bb_width = 46
