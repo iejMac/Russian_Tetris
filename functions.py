@@ -1,6 +1,5 @@
 import pygame
-from . import sprites
-# import sprites
+import sprites
 from functools import partial
 
 
