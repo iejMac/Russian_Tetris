@@ -2,10 +2,8 @@
 # ------------------------------------------------------------------------
 import pygame
 import random
-from Projects.Games.Tetris import sprites
-from Projects.Games.Tetris import functions
-#from . import sprites
-#from . import functions
+import sprites
+import functions
 from functools import partial
 from math import floor
 
