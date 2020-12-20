@@ -9,5 +9,8 @@ Run play.py with all other files in the same project
 
 ### Frames from game:
 Menu:
-
 ![Menu](menu.png)
+Gameplay:
+![Game](game1.png)
+Game Over:
+![Game Over](game2.png)
